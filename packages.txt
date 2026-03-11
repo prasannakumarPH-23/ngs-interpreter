@@ -1,1 +1,4 @@
 samtools
+libbz2-dev
+liblzma-dev
+libcurl4-openssl-dev
