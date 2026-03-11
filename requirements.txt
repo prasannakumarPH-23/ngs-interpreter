@@ -3,3 +3,6 @@ pandas
 pysam
 biopython
 reportlab
+rich
+markdown-it-py
+pygments
