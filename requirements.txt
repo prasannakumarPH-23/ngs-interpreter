@@ -1,6 +1,6 @@
 streamlit
 pandas
-pysam
+pysam==0.22.1
 biopython
 reportlab
 rich
